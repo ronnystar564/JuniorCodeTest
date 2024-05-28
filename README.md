@@ -1,7 +1,5 @@
 # Junior Developer Code Test
-README
-
- Overview
+Overview
 
 This project fetches and displays a list of random users from the `randomuser.me` API. The application was enhanced with various features, including a refresh button, updated data models, improved API fetching, and a better user interface.
 
@@ -10,8 +8,8 @@ Steps to Implement
 Step 1: Add Refresh Button
 
 1. HTML Structure:
-   - Added a refresh button within a `div` element with the class `refresh-button` to allow users to reload the page.
-   - Included descriptive text below the button to instruct users to click the button to reload the page.
+   - A refresh button within a `div` element with the class `refresh-button` was added to allow users to reload the page.
+   - Descriptive text was included below the button to instruct users to click the button to reload the page.
 
 2. JavaScript:
    - Implemented a JavaScript event listener for the refresh button that reloads the page when clicked.
