@@ -1,6 +1,4 @@
 # Junior Developer Code Test
-Sure, here is a step-by-step guide for your README file, describing the changes made without including the code itself:
-
 README
 
  Overview
